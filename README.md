@@ -1,2 +1,10 @@
 # vigilant-computing-machine
-Aprendendo JS
+JS
+
+Ejercicios y Ejemplos de estudio 
+
+Devf 
+
+SamuraiDev 
+
+
